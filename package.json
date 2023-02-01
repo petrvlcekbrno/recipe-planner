@@ -1,13 +1,13 @@
 {
-  "id": "whatsapp",
-  "name": "WhatsApp",
-  "version": "1.0.35",
-  "description": "WhatsApp",
+  "id": "Planner",
+  "name": "Planner",
+  "version": "1.0.0",
+  "description": "Planner",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Petr Vlcek <petrvlcekbrno@icloud.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://web.whatsapp.com",
+    "serviceURL": "https://tasks.office.com",
     "hasNotificationSound": true,
     "disablewebsecurity": true
   }
