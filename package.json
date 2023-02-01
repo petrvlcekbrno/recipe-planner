@@ -1,14 +1,15 @@
 {
-  "id": "Planner",
-  "name": "Planner",
-  "version": "1.0.0",
-  "description": "Planner",
+  "id": "MSPlanner",
+  "name": "Planner / Tasks",
+  "version": "0.0.1",
+  "description": "MS Planner / Tasks",
   "main": "index.js",
   "author": "Petr Vlcek <petrvlcekbrno@icloud.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://tasks.office.com",
-    "hasNotificationSound": true,
-    "disablewebsecurity": true
+    "serviceURL": "https://tasks.office.com/",
+    "hasNotificationSound": true
+
   }
 }
+

@@ -6,12 +6,7 @@ module.exports = Franz => class Planner extends Franz {
   // https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop#resolution
   knownCertificateHosts() {
     return [
-      'microsoft.com',
-      'microsoftonline.com',
-      'teams.skype.com',
-      'teams.microsoft.com',
-      'sfbassets.com',
-      'skypeforbusiness.com',
+      'tasks.office.com'  
     ];
   }
 
